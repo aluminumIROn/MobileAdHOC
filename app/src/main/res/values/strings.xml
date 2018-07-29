@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MobileAdHoc</string>
+    <string-array name="Gender">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+
+    <string-array name="civil_status">
+        <item>SINGLE</item>
+        <item>MARRIED</item>
+        <item>WIDOWED</item>
+    </string-array>
+
+    <string-array name="hhold_type">
+        <item>House Owner</item>
+        <item>Relatives</item>
+        <item>Renter</item>
+    </string-array>
+
+    <string-array name="relationship_type">
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Wife</item>
+        <item>Husband</item>
+        <item>Relatives</item>
+    </string-array>
+
+    <string-array name="cal_type">
+        <item>Typhoon</item>
+        <item>Flood</item>
+        <item>FlashFlood</item>
+        <item>Earthquake</item>
+        <item>Hurricane</item>
+        <item>Storm Surge</item>
+        <item>Fire</item>
+        <item>Landslide</item>
+    </string-array>
+
+
+    <string-array name="dmg_type">
+        <item>Totally Damage</item>
+        <item>Slightly Damage</item>
+        <item>No Damage</item>
+    </string-array>
+</resources>
